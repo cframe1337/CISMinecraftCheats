@@ -4,6 +4,11 @@
 ![Repository Size](https://img.shields.io/github/repo-size/cframe1337/CISMinecraftCheats) ![GitHub last commit](https://img.shields.io/github/last-commit/cframe1337/CISMinecraftCheats)
 
 
+- [x] The cheat websites provided here are verified and are not phishing or malicious.
+- [x] Information about owners of cheat is confirmed and up to date.
+- [x] The list of cheats will be added to over time.
+
+
 | 🕹 Cheat | 🔗 Link | ⏱ Last Update | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 9/08/2024 | ★★★★☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
