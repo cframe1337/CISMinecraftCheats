@@ -32,5 +32,5 @@
 
 ## Scam and malicious list
 | 🕹 Cheat | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Rogalik Client | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
