@@ -31,6 +31,6 @@
 | Wexside | https://wexside.ru | 14/08/2024 | ★★★☆☆ | [markushv](https://discord.com/users/1057599837652135957) | Custom(?) | Paid | No |
 
 ## Scam and malicious list
-| 🕹 Cheat | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
+| 🕹 Cheat | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- |
-| Rogalik Client | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
+| Rogalik Client | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
