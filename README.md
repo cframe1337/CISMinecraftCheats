@@ -8,7 +8,7 @@
 - [x] Information about owners of cheat is confirmed and up to date.
 - [x] The list of cheats will be added to over time.
 
-
+## Normal List
 | 🕹 Cheat | 🔗 Link | ⏱ Last Update | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 9/08/2024 | ★★★★☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
@@ -29,3 +29,9 @@
 | Verist | https://discord.gg/zD5c7MHD5p | 25/08/2024 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | Custom(?) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom(?) | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 14/08/2024 | ★★★☆☆ | [markushv](https://discord.com/users/1057599837652135957) | Custom(?) | Paid | No |
+
+## Scam and malicious list
+| 🕹 Cheat | 👑 Owner | ❓ Type | 💰 Paid |
+| --- | --- | --- | --- |
+| Rogalik Client | vorkis | Stealer&Rat | Yes |
+
