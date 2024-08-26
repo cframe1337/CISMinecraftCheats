@@ -1,6 +1,5 @@
 # CISMinecraftCheats
-### Welcome to the CIS Minecraft Cheats repository! Here you can find a variety of cheat clients/cheat mods to suit your taste.
-
+### Welcome to the CIS Minecraft Cheats repository.
 ![License](https://img.shields.io/github/license/cframe1337/CISMinecraftCheats) ![GitHub Repo stars](https://img.shields.io/github/stars/cframe1337/CISMinecraftCheats)
 ![Repository Size](https://img.shields.io/github/repo-size/cframe1337/CISMinecraftCheats) ![GitHub last commit](https://img.shields.io/github/last-commit/cframe1337/CISMinecraftCheats)
 
