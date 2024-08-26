@@ -12,7 +12,7 @@
 | Akrien Client | https://akrien.wtf | 2/07/2024 | ★★★☆☆ | [Fals3R](https://t.me/Fals3R) | Custom(?) | Paid | No |
 | Arbuz Client | https://arbuz.cc | 30/07/2024 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
 | Deadcode Client | https://deadcodehack.org | 15/06/2024 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
-| Delta Client | https://deltahack.org | 21/08/2024 | ★★★☆☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
+| Delta Client | https://deltahack.org | 21/08/2024 | ★★★★☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
 | Excellent Client | https://excellenthack.org | 6/06/2024 | ★★☆☆☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | GishReloadead | Paid | No |
 | Expensive Client | https://expensiveclient.su | 27/07/2024 | ★★★☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger Client | https://flugerclient.xyz | 22/07/2024 | ★☆☆☆☆ | [Fluger](https://t.me/FlugerOld) | SerjTarasov | Paid | No |
@@ -21,6 +21,6 @@
 | Relake Client | https://relakeclient.fun | 21/08/2024 | ★★★★☆ | [wavenever](https://discord.com/users/1213473984839163906) | SerjTarasov | Paid | No |
 | Rockstar Client | https://rockstarity.fun (Not released) | 10/08/2024(Private) | ★★★★☆ | [ConeTin](https://discord.com/users/627722840992514061)| Custom(?) | Paid(Not released) | Yes |
 | ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 24/08/2024 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
-| Verist Client | https://discord.gg/zD5c7MHD5p | 25/08/2024 | ★★☆☆☆ | [Kasper](https://discord.com/users/665501855060721704) | Custom(?) | Free | Yes |
+| Verist Client | https://discord.gg/zD5c7MHD5p | 25/08/2024 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | Custom(?) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom(?) | Paid(Not released) | No |
-| Wexside Client | https://wexside.ru | 14/08/2024 | ★★☆☆☆ | [markushv](https://discord.com/users/1057599837652135957) | Custom(?) | Paid | No |
+| Wexside Client | https://wexside.ru | 14/08/2024 | ★★★☆☆ | [markushv](https://discord.com/users/1057599837652135957) | Custom(?) | Paid | No |
