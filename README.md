@@ -9,26 +9,26 @@
 - [x] The list of cheats will be added to over time.
 
 ## Normal List
-| 🕹 Cheat | 🔗 Link | ⏱ Last Update | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | 9/08/2024 | ★★★★☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
-| Wild | https://wildclient.org | 31/07/2024 | ★★★☆☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
-| Celestial | https://celka.su | 26/08/2023 | ★★☆☆☆ | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
-| Akrien | https://akrien.wtf | 2/07/2024 | ★★★☆☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
-| Arbuz | https://arbuz.cc | 30/07/2024 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
-| Deadcode | https://deadcodehack.org | 15/06/2024 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
-| Delta | https://deltahack.org | 21/08/2024 | ★★★★☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
-| Excellent | https://excellenthack.org | 6/06/2024 | ★★☆☆☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
-| Expensive | https://expensiveclient.su | 27/07/2024 | ★★★☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
-| Fluger | https://flugerclient.xyz | 22/07/2024 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
-| Melonity | https://t.me/MelonityMine | Not released | Not released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
-| Quick | https://quickclient.ru | 20/08/2024 | ★★★☆☆ | [Fabos](https://discord.com/users/974660866203062322) | Wendovsky, Markushv | Paid | Yes(Freemium) |
-| Relake | https://relakeclient.fun | 21/08/2024 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
-| Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | ★★★★☆ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
-| ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 24/08/2024 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
-| Verist | https://discord.gg/zD5c7MHD5p | 25/08/2024 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | Custom | Free | Yes |
-| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
-| Wexside | https://wexside.ru | 14/08/2024 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
+| 🕹 Cheat | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nursultan | https://nursultan.fun | 9/08/2024 | 1.12.2, 1.16.5, 1.20.1(Not released) | ★★★★☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
+| Wild | https://wildclient.org | 31/07/2024 | ???(Not released), 1.16.5, 1.20.x(Not released) | ★★★☆☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
+| Celestial | https://celka.su | 26/08/2023 | 1.12.2, 1.16.5 | ★★☆☆☆ | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
+| Akrien | https://akrien.wtf | 2/07/2024 | 1.16.5 | ★★★☆☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
+| Arbuz | https://arbuz.cc | 30/07/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
+| Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
+| Delta | https://deltahack.org | 21/08/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
+| Excellent | https://excellenthack.org | 6/06/2024 | 1.8.9(Not released), 1.16.5  | ★★☆☆☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
+| Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not released)  | ★★★☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
+| Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
+| Melonity | https://t.me/MelonityMine | Not released | 1.16.5 | Not released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
+| Quick | https://quickclient.ru | 20/08/2024 | 1.16.5, 1.20.4 | ★★★☆☆ | [Fabos](https://discord.com/users/974660866203062322) | Wendovsky, Markushv | Paid | Yes(Freemium) |
+| Relake | https://relakeclient.fun | 21/08/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
+| Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | 1.16.5 | ★★★★☆ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
+| ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 24/08/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
+| Verist | https://discord.gg/zD5c7MHD5p | 25/08/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | Custom | Free | Yes |
+| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.16.5 | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
+| Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 
 ## Scam and malicious list
 | 🕹 Cheat | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
