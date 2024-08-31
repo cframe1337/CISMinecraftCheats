@@ -9,7 +9,7 @@
 - [x] The list of cheats will be added to over time.
 
 ## Normal List
-| 🕹 Cheat | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
+| 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 9/08/2024 | 1.12.2, 1.16.5, 1.20.1(Not released) | ★★★☆☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
 | Wild | https://wildclient.org | 31/07/2024 | ???(Not released), 1.16.5, 1.20.x(Not released) | ★★★★☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
@@ -31,6 +31,7 @@
 | Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 
 ## Scam and malicious list
-| 🕹 Cheat | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
+| 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- |
-| Rogalik Client | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
+| Rogalik | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
+| Redust | https://vk.com/redustclient & https://redust.ru | Not Found | Exit Scam | Yes | No |
