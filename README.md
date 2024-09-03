@@ -25,7 +25,7 @@
 | Quick | https://quickclient.ru | 20/08/2024 | 1.16.5, 1.20.4 | ★★★☆☆ | [Fabos](https://discord.com/users/974660866203062322) | Wendovsky, Markushv | Paid | Yes(Freemium) |
 | Relake | https://relakeclient.fun | 28/08/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
-| ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 24/08/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
+| ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 03/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Verist | https://discord.gg/zD5c7MHD5p | 03/09/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.16.5 | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
