@@ -18,7 +18,7 @@
 | Arbuz | https://arbuz.cc | 30/07/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltahack.org | 21/08/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
-| Excellent | https://excellentclient.pw | 29/08/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
+| Excellent | https://excellentclient.pw | 03/09/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
 | Melonity | https://t.me/MelonityMine | Not released | 1.16.5 | Not released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
@@ -26,7 +26,7 @@
 | Relake | https://relakeclient.fun | 28/08/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | ThunderHack | [https://тандерхак.рф](http://xn--80aale0aoxl6a.xn--p1ai/) | 24/08/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
-| Verist | https://discord.gg/zD5c7MHD5p | 25/08/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
+| Verist | https://discord.gg/zD5c7MHD5p | 03/09/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.16.5 | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 
