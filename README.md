@@ -14,7 +14,7 @@
 | Nursultan | https://nursultan.fun | 9/08/2024 | 1.12.2, 1.16.5, 1.20.1(Not released) | ★★★☆☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
 | Wild | https://wildclient.org | 31/07/2024 | ???(Not released), 1.16.5, 1.20.x(Not released) | ★★★★☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
 | Celestial | https://celka.su | 26/08/2023 | 1.12.2, 1.16.5 | ★☆☆☆☆ | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
-| Akrien | https://akrien.wtf | 2/07/2024 | 1.16.5 | ★★★★☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
+| Akrien | https://akrien.wtf | 5/09/2024 | 1.16.5 | ★★★★☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
 | Arbuz | https://arbuz.cc | 30/07/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltahack.org | 21/08/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | GishReloadead | Paid | No |
