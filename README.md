@@ -17,7 +17,7 @@
 | Akrien | https://akrien.wtf | 7/09/2024 | 1.16.5 | ★★★★☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
 | Arbuz | https://arbuz.cc | 30/07/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| GishReloadead | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
-| Delta | https://deltaclient.fun | 13/09/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
+| Delta | https://deltaclient.fun | 15/09/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
 | Excellent | https://excellentclient.pw | 13/09/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
