@@ -23,7 +23,6 @@
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not Released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
 | Melonity | https://t.me/MelonityMine | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
-| Quick | https://quickclient.ru | 20/08/2024 | 1.16.5, 1.20.4 | ★★★☆☆ | [Fabos](https://discord.com/users/974660866203062322) | Wendovsky, Markushv | Paid | Yes(Freemium) |
 | Relake | https://relakeclient.fun | 05/10/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
@@ -38,5 +37,6 @@
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- |
 | Rogalik | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
+| Quick | https://quickclient.ru | [Fabos](https://discord.com/users/974660866203062322) | Author is freak&skidder | Yes | No |
 | Manloxx | https://t.me/ManloxxClient | [manloxx](https://t.me/manloxx1337) | Author is freak&skidder | Yes | No |
 | Redust | https://vk.com/redustclient & https://redust.ru | Not Found | Exit Scam | Yes | No |
