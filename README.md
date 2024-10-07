@@ -19,11 +19,11 @@
 | Arbuz | https://arbuz.cc | 24/09/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltaclient.fun | 04/10/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
-| Excellent | https://excellentclient.pw | 03/10/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
+| Excellent | https://excellentclient.pw | 07/10/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not Released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
 | Melonity | https://t.me/MelonityMine | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
-| Relake | https://relakeclient.fun | 05/10/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
+| Relake | https://relakeclient.fun | 07/10/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 10/08/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Troxill | https://discord.gg/P269kpCAM2 | 06/10/2024 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
