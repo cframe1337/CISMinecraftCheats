@@ -20,7 +20,7 @@
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltaclient.fun | 19/10/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
 | Excellent | https://excellentclient.pw | 14/10/2024 | 1.8.9(Not released), 1.16.5  | ★★★★☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
-| Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.20.1(Not Released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
+| Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released)  | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
 | Melonity | https://t.me/MelonityMine | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
 | Relake | https://relakeclient.fun | 22/10/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | SerjTarasov, Bodyaha | Paid | No |
