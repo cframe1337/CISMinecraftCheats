@@ -28,7 +28,7 @@
 | ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Troxill | https://discord.gg/P269kpCAM2 | 21/10/2024 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
 | Verist | https://discord.gg/zD5c7MHD5p | 09/09/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
-| Verist Reborn | https://discord.gg/FZPwucDCrn | 12/10/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
+| Verist Reborn | https://discord.gg/FZPwucDCrn | 29/10/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★★☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
