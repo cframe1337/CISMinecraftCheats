@@ -15,7 +15,7 @@
 | Wild | https://wildclient.org | 10/10/2024 | 1.20(Not Released), 1.16.5, 1.19.2 | ★★★★☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
 | Celestial | https://celka.su | 26/08/2023 | 1.12.2, 1.16.5 | ★☆☆☆☆ | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
 | CProject | https://t.me/cprojecttech | Not Released | 1.9-1.21(Not released)(Inject) | Not Released | [Myszkin](https://t.me/mousej123) | Custom | Paid(Not released) | No |
-| Akrien | https://akrien.wtf | 30/09/2024 | 1.16.5 | ★★★★☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
+| Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | ★★★★☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
 | Arbuz | https://arbuz.cc | 31/10/2024 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltaclient.fun | 28/10/2024 | 1.16.5 | ★★★★☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
