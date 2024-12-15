@@ -31,7 +31,7 @@
 | Verist | https://discord.gg/zD5c7MHD5p | 09/09/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | Verist Reborn | https://discord.gg/FZPwucDCrn | 13/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
-| Wexside | https://wexside.ru | 14/08/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
+| Wexside | https://wexside.ru | 14/12/2024 | 1.16.5 | ★★★☆☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★★☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Scam and malicious list
