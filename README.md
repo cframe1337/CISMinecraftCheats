@@ -28,7 +28,7 @@
 | Relake | https://relakeclient.fun | 22/01/2025 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 25/11/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
-| Troxill | https://discord.gg/P269kpCAM2 | 29/11/2024 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
+| Troxill | https://discord.gg/P269kpCAM2 | 21/01/2025 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
 | Venus | https://discord.com/invite/snB5gAuHrm | 29/12/2024 | 1.16.5 | ★★★☆☆ | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
 | Verist Reborn | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
