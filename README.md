@@ -25,7 +25,7 @@
 | Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
 | Melonity | https://t.me/MelonityMine | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
 | Minced | https://mincedclient.ru/ | 26/01/2025(Waiting) | 1.16.5, 1.20.1 | ★★★★☆ | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
-| Relake | https://relakeclient.fun | 25/12/2024 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
+| Relake | https://relakeclient.fun | 22/01/2025 | 1.16.5 | ★★★★☆ | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
 | Rockstar | https://rockstarity.fun (Not released) | 25/11/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★★☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Troxill | https://discord.gg/P269kpCAM2 | 29/11/2024 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
