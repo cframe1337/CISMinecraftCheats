@@ -35,6 +35,11 @@
 | Wexside | https://wexside.ru | 02/01/2024 | 1.16.5 | ★★★★☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
+## Pricing List (Without Fees)
+| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 60 Days | 💰 365 Days | 💰 Lifetime Days | 💰 HWID Reset | 💸 Free ver. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nursultan | https://nursultan.fun | Paid | 349₽ | - | 549₽ | 649₽ | 299₽ | No |
+
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- |
