@@ -36,9 +36,17 @@
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Pricing List (Without Fees)
-| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 60 Days | 💰 365 Days | 💰 Lifetime Days | 💰 Premium(30 Days) | 💰 Paid Testing(Lifetime) | 💰 HWID Reset |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun/products | Paid | 349₽ | - | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
+| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime Days | 💰 Premium(30 Days) | 💰 Paid Testing(Lifetime) | 💰 HWID Reset |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nursultan | https://nursultan.fun/products | Paid | 349₽ | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
+| Wild | https://wildclient.org/account/products | Paid | 299₽ | 449₽ | 499₽ | - | 800₽ | 169₽ |
+| Celestial | https://celka.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
+| CProject | Not Released | Paid | - | - | - | - | - | - |
+| Akrien | https://akrien.wtf/market | Paid | 299₽ | - | 749₽ | - | - | 299₽ |
+| Arbuz | https://arbuz.cc/cabinet | Paid | 299₽ | 499₽ | 599₽ | - | - | 152₽ |
+| Deadcode | https://deadcodehack.org/Home/AdvancedInfo | Paid | 305₽ | - | 599₽ | - | - | - |
+| Delta | https://deltaclient.fun | Paid | 349₽ | - | 549₽ | 250₽ | - | 250₽ |
+
 
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
