@@ -35,7 +35,7 @@
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Pricing List (Without Fees)
-| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime Days | 💰 Premium(30 Days) | 💰 Paid Testing(Lifetime) | 💰 HWID Reset |
+| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime | 💰 Premium | 💰 Paid Testing | 💰 HWID Reset |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun/products | Paid | 349₽ | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
 | Wild | https://wildclient.org/account/products | Paid | 299₽ | 449₽ | 499₽ | - | 800₽ | 169₽ |
