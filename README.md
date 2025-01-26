@@ -22,15 +22,14 @@
 | Excellent | https://excellentclient.pw | 10/11/2024 | 1.8.9(Not released), 1.16.5  | ★★★☆☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
 | Eternity | https://eternityclient.ru | 27/01/2025(Waiting) | 1.21.1 | ★★★★☆ | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | ★★☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
-| Fluger | https://flugerclient.xyz | 22/07/2024 | 1.16.5 | ★☆☆☆☆ | [BlueMouse](https://discord.com/users/532120976440164352) | SerjTarasov, Bodyaha | Paid | No |
-| Melonity | https://t.me/MelonityMine | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
+| Melonity | https://melonity.gg | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
 | Minced | https://mincedclient.ru/ | 26/01/2025(Waiting) | 1.16.5, 1.20.1 | ★★★★☆ | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
 | Relake | https://relakeclient.fun | 22/01/2025 | 1.16.5 | ★★★☆☆ | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
 | Rockstar | https://rockstar.moscow (Not released) | 25/11/2024(Private) | 1.16.5 | ★★★★★ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
-| ThunderHack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★☆☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
+| Thunderhack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★☆☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Troxill | https://discord.gg/P269kpCAM2 | 21/01/2025 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
 | Venus | https://discord.com/invite/snB5gAuHrm | 16/01/2025 | 1.16.5 | ★★★☆☆ | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
-| Verist Reborn | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
+| Verist | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | ★★★★★ | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 02/01/2024 | 1.16.5 | ★★★★☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
@@ -45,8 +44,21 @@
 | Akrien | https://akrien.wtf/market | Paid | 299₽ | - | 749₽ | - | - | 299₽ |
 | Arbuz | https://arbuz.cc/cabinet | Paid | 299₽ | 499₽ | 599₽ | - | - | 152₽ |
 | Deadcode | https://deadcodehack.org/Home/AdvancedInfo | Paid | 305₽ | - | 599₽ | - | - | - |
-| Delta | https://deltaclient.fun | Paid | 349₽ | - | 549₽ | 250₽ | - | 250₽ |
-
+| Delta | https://deltaclient.fun/cabinet | Paid | 349₽ | - | 549₽ | 250₽ | - | 250₽ |
+| Excellent | https://excellentclient.pw | Paid | - | - | - | - | - | - |
+| Eternity | https://eternityclient.ru/#/products | Paid | - | - | 450₽ | - | - | - |
+| Expensive | https://expensiveclient.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
+| Melonity | https://melonity.gg | Paid | - | - | - | - | - | - |
+| Minced | https://mincedclient.ru/index#pricing | Paid | 300₽ | 600₽ | - | - | - | 150₽ |
+| Relake | https://relakeclient.fun | Paid | - | - | - | - | - | - |
+| Rockstar | https://rockstar.moscow | Paid | - | - | 349₽ | - | 999₽ | - |
+| Thunderhack | https://thunderhack.sex | Free | - | - | - | - | - | - |
+| Troxill | https://t.me/troxill_bot | Paid | - | - | - | - | - | - |
+| Venus | https://discord.com/invite/snB5gAuHrm | Free | - | - | - | - | - | - |
+| Verist | https://discord.gg/GMGhBszKvA | Free | - | - | - | - | - | - |
+| ProjectWing | https://discord.gg/tdeX5TBkmX | Paid | - | - | - | - | 1000₽ | - |
+| Wexside | https://wexside.ru/catalog | Paid | 349₽ | - | 549₽ | - | 849₽ | 249₽ |
+| Zamorozka | https://zamorozka-web.github.io/site | Free | - | - | - | - | - | - |
 
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
