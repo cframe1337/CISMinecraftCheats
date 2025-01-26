@@ -31,7 +31,7 @@
 | Troxill | https://discord.gg/P269kpCAM2 | 21/01/2025 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
 | Venus | https://discord.com/invite/snB5gAuHrm | 16/01/2025 | 1.16.5 | ★★★☆☆ | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
 | Verist Reborn | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
-| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
+| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | ★★★★★ | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
 | Wexside | https://wexside.ru | 02/01/2024 | 1.16.5 | ★★★★☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
