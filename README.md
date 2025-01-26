@@ -36,9 +36,9 @@
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Pricing List (Without Fees)
-| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 60 Days | 💰 365 Days | 💰 Lifetime Days | 💰 HWID Reset | 💸 Free ver. |
+| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 60 Days | 💰 365 Days | 💰 Lifetime Days | 💰 Premium(30 Days) | 💰 Paid Testing(Lifetime) | 💰 HWID Reset |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | Paid | 349₽ | - | 549₽ | 649₽ | 299₽ | No |
+| Nursultan | https://nursultan.fun | Paid | 349₽ | - | 549₽ | 649₽ | 399₽ | 299₽ | 1049₽ | 299₽|
 
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
