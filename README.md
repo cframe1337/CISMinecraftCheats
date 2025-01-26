@@ -37,8 +37,8 @@
 
 ## Pricing List (Without Fees)
 | 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 60 Days | 💰 365 Days | 💰 Lifetime Days | 💰 Premium(30 Days) | 💰 Paid Testing(Lifetime) | 💰 HWID Reset |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | Paid | 349₽ | - | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nursultan | https://nursultan.fun/products | Paid | 349₽ | - | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
 
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
