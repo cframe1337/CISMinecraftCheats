@@ -11,28 +11,28 @@
 ## Normal List
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | 10/01/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 / 100 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
-| Wild | https://wildclient.org | 01/01/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 / 100 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
-| Celestial | https://celka.su | 16/01/2025 | 1.12.2, 1.16.5 | 61.09 / 100 | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
+| Nursultan | https://nursultan.fun | 10/01/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
+| Wild | https://wildclient.org | 01/01/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
+| Celestial | https://celka.su | 16/01/2025 | 1.12.2, 1.16.5 | 61.09 | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
 | CProject | https://t.me/cprojecttech | Not Released | 1.9-1.21(Not released)(Inject) | Not Released | [Myszkin](https://t.me/mousej123) | Custom | Paid(Not released) | No |
-| Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | 71.82 / 100 | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
-| Arbuz | https://arbuz.cc | 26/01/2025 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
-| Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
-| Delta | https://deltaclient.fun | 20/01/2025 | 1.16.5 | ★★★☆☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
-| Excellent | https://excellentclient.pw | 10/11/2024 | 1.8.9(Not released), 1.16.5  | ★★☆☆☆ | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
-| Eternity | https://eternityclient.ru | 27/01/2025(Waiting) | 1.21.1 | ★★★★☆ | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
-| Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | ★☆☆☆☆ | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
+| Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | 71.82 | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
+| Arbuz | https://arbuz.cc | 26/01/2025 | 1.16.5 | 56.36 | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
+| Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | 31.82 | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
+| Delta | https://deltaclient.fun | 20/01/2025 | 1.16.5 | 65.45 | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
+| Excellent | https://excellentclient.pw | 10/11/2024 | 1.8.9(Not released), 1.16.5  | 44.55 | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
+| Eternity | https://eternityclient.ru | 27/01/2025(Not Released) | 1.21.1 | Not Released | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
+| Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | 48.18 | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Melonity | https://melonity.gg | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
-| Minced | https://mincedclient.ru/ | 26/01/2025(Waiting) | 1.16.5, 1.20.1 | ★★★☆☆ | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
-| Relake | https://relakeclient.fun | 22/01/2025 | 1.16.5 | ★☆☆☆☆ | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
-| Rockstar | https://rockstar.moscow (Not released) | 25/11/2024(Private) | 1.16.5 | ★★★★☆ | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
-| Thunderhack | https://thunderhack.sex | 25/09/2024 | 1.21 | ★★★☆☆ | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
-| Troxill | https://discord.gg/P269kpCAM2 | 21/01/2025 | 1.16.5(Inject) | ★★★☆☆ | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
-| Venus | https://discord.com/invite/snB5gAuHrm | 16/01/2025 | 1.16.5 | ★★☆☆☆ | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
-| Verist | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | ★★★☆☆ | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
-| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | ★★★★☆ | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
-| Wexside | https://wexside.ru | 02/01/2024 | 1.16.5 | ★★★★☆ | Wendovsky | Wendovsky, Markushv | Paid | No |
-| Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | ★★★☆☆ | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
+| Minced | https://mincedclient.ru/ | 26/01/2025 | 1.16.5, 1.20.1 | 60.91 | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
+| Relake | https://relakeclient.fun | 22/01/2025 | 1.16.5 | 43.64 | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
+| Rockstar | https://rockstar.moscow (Not released) | 25/11/2024(Private) | 1.16.5 | 88.18 | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
+| Thunderhack | https://thunderhack.sex | 25/09/2024 | 1.21 | 76.36 | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
+| Troxill | https://discord.gg/P269kpCAM2 | 21/01/2025 | 1.16.5(Inject) | 51.82 | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
+| Venus | https://discord.com/invite/snB5gAuHrm | 16/01/2025 | 1.16.5 | 50.0 | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
+| Verist | https://discord.gg/GMGhBszKvA | 27/12/2024 | 1.16.5 | 46.36 | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
+| ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | 90.91 | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
+| Wexside | https://wexside.ru | 02/01/2024 | 1.16.5 | 69.09 | Wendovsky | Wendovsky, Markushv | Paid | No |
+| Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | 70.91 | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Pricing List (Without Fees)
 | 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime | 💰 Premium | 💰 Paid Testing | 💰 HWID Reset |
