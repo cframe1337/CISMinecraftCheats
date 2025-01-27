@@ -11,11 +11,11 @@
 ## Normal List
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | 10/01/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | ★★☆☆☆ | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
-| Wild | https://wildclient.org | 01/01/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | ★★★☆☆ | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
-| Celestial | https://celka.su | 16/01/2025 | 1.12.2, 1.16.5 | ★★★☆☆ | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
+| Nursultan | https://nursultan.fun | 10/01/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 / 100 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
+| Wild | https://wildclient.org | 01/01/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 / 100 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
+| Celestial | https://celka.su | 16/01/2025 | 1.12.2, 1.16.5 | 61.09 / 100 | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
 | CProject | https://t.me/cprojecttech | Not Released | 1.9-1.21(Not released)(Inject) | Not Released | [Myszkin](https://t.me/mousej123) | Custom | Paid(Not released) | No |
-| Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | ★★★☆☆ | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
+| Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | 71.82 / 100 | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
 | Arbuz | https://arbuz.cc | 26/01/2025 | 1.16.5 | ★★★☆☆ | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | ★★☆☆☆ | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltaclient.fun | 20/01/2025 | 1.16.5 | ★★★☆☆ | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
