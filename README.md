@@ -9,7 +9,7 @@
 - [x] The list of cheats will be added to over time.
 
 ## Normal List
-| 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
+| 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 10/01/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
 | Wild | https://wildclient.org | 01/01/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
