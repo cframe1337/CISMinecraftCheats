@@ -66,4 +66,4 @@
 | Rogalik | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
 | Quick | https://quickclient.ru | [Fabos](https://discord.com/users/974660866203062322) | Author is freak&skidder | Yes | No |
 | Manloxx | https://t.me/ManloxxClient | [manloxx](https://t.me/manloxx1337) | Author is freak&skidder | Yes | No |
-| Redust | https://vk.com/redustclient & https://redust.ru | Pinkface | Exit Scam | Yes | No |
+| Redust | https://vk.com/redustclient & https://redust.ru | [PinkFace](tg://user?id=1263978335) | Exit Scam | Yes | No |
