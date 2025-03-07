@@ -18,7 +18,7 @@
 | Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | 71.82 | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
 | Arbuz | https://arbuz.cc | 05/03/2025 | 1.16.5 | 56.36 | [wxshuzx](https://discord.com/users/1047739286964932608)| SerjTarasov, Bodyaha | Paid | No |
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | 31.82 | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
-| Delta | https://deltaclient.fun | 12/02/2025 | 1.16.5 | 65.45 | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
+| Delta | https://deltaclient.fun | 23/02/2025 | 1.16.5 | 65.45 | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
 | Excellent | https://excellentclient.pw | 10/11/2024 | 1.8.9(Not released), 1.16.5  | 44.55 | [sheluvparis](https://discord.com/users/1064671203782037555) | SerjTarasov, Bodyaha | Paid | No |
 | Eternity | https://eternityclient.ru | 27/01/2025(Not Released) | 1.21.1 | Not Released | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | 48.18 | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
