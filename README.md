@@ -1,4 +1,4 @@
-# CISMinecraftCheats
+![изображение](https://github.com/user-attachments/assets/0fb2c9ce-d8dc-4905-8423-c1bca5e9a113)# CISMinecraftCheats
 ### Welcome to the CIS Minecraft Cheats repository.
 ![License](https://img.shields.io/github/license/cframe1337/CISMinecraftCheats) ![GitHub Repo stars](https://img.shields.io/github/stars/cframe1337/CISMinecraftCheats)
 ![Repository Size](https://img.shields.io/github/repo-size/cframe1337/CISMinecraftCheats) ![GitHub last commit](https://img.shields.io/github/last-commit/cframe1337/CISMinecraftCheats)
@@ -24,7 +24,7 @@
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | 48.18 | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Melonity | https://melonity.gg | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
 | Minced | https://mincedclient.ru/ | 16/03/2025 | 1.16.5, 1.20.1 | 60.91 | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
-| Relake | https://relakeclient.fun | 09/03/2025 | 1.16.5 | 43.64 | [Fusurt](https://discord.com/users/1255500479308365905) | kotopushka1337, pierceheart4w | Paid | No |
+| Relake | https://relakeclient.fun | 09/03/2025 | 1.16.5 | 43.64 | [kotopushka1337](https://t.me/imkotopushka) | kotopushka1337 | Paid | No |
 | Rockstar | https://rockstar.moscow (Not releаsed) | 17/03/2025(Private) | 1.16.5 | Not Released | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | Thunderhack | https://thunderhack.sex | 25/09/2024 | 1.21 | 76.36 | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
 | Troxill | https://discord.gg/P269kpCAM2 | 20/02/2025 | 1.16.5(Inject) | 51.82 | [ZDCoder](https://discord.com/users/702890438436192290) | Custom | Yes | No |
