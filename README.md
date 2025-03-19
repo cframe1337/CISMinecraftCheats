@@ -1,4 +1,3 @@
-![изображение](https://github.com/user-attachments/assets/0fb2c9ce-d8dc-4905-8423-c1bca5e9a113)# CISMinecraftCheats
 ### Welcome to the CIS Minecraft Cheats repository.
 ![License](https://img.shields.io/github/license/cframe1337/CISMinecraftCheats) ![GitHub Repo stars](https://img.shields.io/github/stars/cframe1337/CISMinecraftCheats)
 ![Repository Size](https://img.shields.io/github/repo-size/cframe1337/CISMinecraftCheats) ![GitHub last commit](https://img.shields.io/github/last-commit/cframe1337/CISMinecraftCheats)
