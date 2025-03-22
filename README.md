@@ -45,7 +45,7 @@
 | Deadcode | https://deadcodehack.org/Home/AdvancedInfo | Paid | 305₽ | - | 599₽ | - | - | - |
 | Delta | https://deltaclient.fun/cabinet | Paid | 349₽ | - | 549₽ | 250₽ | - | 250₽ |
 | Excellent | https://excellentclient.pw | Paid | - | - | - | - | - | - |
-| Eternity | https://eternityclient.ru/#/products | Paid | - | - | 450₽ | - | - | - |
+| Eternity | https://eternityclient.ru/products | Paid | - | - | 450₽ | - | - | - |
 | Expensive | https://expensiveclient.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
 | Melonity | https://melonity.gg | Paid | - | - | - | - | - | - |
 | Minced | https://mincedclient.ru/index#pricing | Paid | 300₽ | 600₽ | - | - | - | 150₽ |
