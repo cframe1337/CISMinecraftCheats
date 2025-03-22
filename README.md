@@ -4,8 +4,8 @@
 
 
 - [x] The cheat websites provided here are verified and are not phishing or malicious.
-- [x] Information about owners of cheat is confirmed and up to date.
-- [x] The list of cheats will be added to over time.
+- [x] Information about owners, ratings, protection providers of cheat is confirmed and up to date.
+- [x] The cheats list will be updated over time.
 
 ## Normal List
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
