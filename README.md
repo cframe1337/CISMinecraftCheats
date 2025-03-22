@@ -7,6 +7,8 @@
 - [x] Information about owners, ratings, protection providers of cheat is confirmed and up to date.
 - [x] The cheats list will be updated over time.
 
+  Last rating update: Mar 1, 2025.
+
 ## Normal List
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
