@@ -7,9 +7,7 @@
 - [x] Information about owners, ratings, protection providers of cheat is confirmed and up to date.
 - [x] The cheats list will be updated over time.
 
-  Last rating update: Mar 1, 2025.
-
-## Normal List
+## Normal List (Last rating update: Mar 1, 2025.)
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 21/03/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
