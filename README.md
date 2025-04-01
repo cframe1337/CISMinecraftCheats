@@ -11,7 +11,7 @@
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun | 23/03/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
-| Wild | https://wildclient.org | 13/03/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
+| Wild | https://wildclient.org | 01/04/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
 | Celestial | https://celka.su | 20/03/2025 | 1.12.2, 1.16.5 | 61.09 | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
 | CProject | https://t.me/cprojecttech | Not Released | 1.9-1.21(Not released)(Inject) | Not Released | [Myszkin](https://t.me/mousej123) | Custom | Paid(Not released) | No |
 | Akrien | https://akrien.wtf | 13/10/2024 | 1.16.5 | 71.82 | [Fals3R](https://t.me/Fals3R) | Fals3R, Argentoz | Paid | No |
