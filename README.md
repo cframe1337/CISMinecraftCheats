@@ -23,7 +23,7 @@
 | Eternity | https://eternityclient.ru | 12/04/2025 | 1.21.1 | 52.27 | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | 48.18 | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Melonity | https://melonity.gg | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
-| Minced | https://mincedclient.ru/ | 28/03/2025 | 1.12.2, 1.16.5, 1.20.1 | 60.91 | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
+| Minced | https://mincedclient.ru/ | 19/04/2025 | 1.12.2, 1.16.5, 1.20.1 | 60.91 | [Tuskiewicz](https://discord.com/users/719410334892294285) | etc1337 | Paid | No |
 | Relake | https://relakeclient.fun | 09/03/2025 | 1.16.5 | 43.64 | [kotopushka1337](https://t.me/imkotopushka) | kotopushka1337 | Paid | No |
 | Rockstar | https://rockstar.moscow (Not releаsed) | 19/04/2025(Alpha) | 1.16.5 | Not Released | [ConeTin](https://discord.com/users/627722840992514061)| Custom | Paid(Not released) | Yes |
 | Thunderhack | https://thunderhack.sex | 25/09/2024 | 1.21 | 76.36 | [Pan4ur](https://discord.com/users/532547459692625941) | NonProtected (Open Source) | Free | Yes |
