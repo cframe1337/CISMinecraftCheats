@@ -31,7 +31,7 @@
 | Venus | https://discord.com/invite/snB5gAuHrm | 12/05/2025 | 1.16.5 | 50.0 | [KatanaKio](https://t.me/Katana_kio) | Custom | No | Yes |
 | Verist | https://discord.gg/GMGhBszKvA | 30/03/2025 | 1.16.5 | - | [Kasper](https://discord.com/users/665501855060721704) | NonProtected(Closed Source) | Free | Yes |
 | ProjectWing | https://discord.gg/tdeX5TBkmX | Not Released | 1.20.x(Not Released) | Not Released | [ecstasy](https://discord.com/users/1043642188522848296) | Custom | Paid(Not released) | No |
-| Wexside | https://wexside.ru | 23/04/2025 | 1.16.5 | 69.09 | Wendovsky | Wendovsky, Markushv | Paid | No |
+| Wexside | https://wexside.ru | 27/04/2025 | 1.16.5 | 69.09 | Wendovsky | Wendovsky, Markushv | Paid | No |
 | Zamorozka | https://zamorozka-web.github.io/site | 21/06/2023 | 1.16.5 | 70.91 | [Shalopay](https://t.me/sun_r0se) | Custom | Free | Yes |
 
 ## Pricing List (Without Fees)
