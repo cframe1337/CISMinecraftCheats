@@ -10,7 +10,7 @@
 ## Normal List (Last rating update: Mar 1, 2025.)
 | 🕹 Cheat client | 🔗 Link | ⏱ Last Update | 📑 Versions | 🌟 Rating (of 100) | 👑 Owner | 🛡 Protection | 💰 Paid | 💸 Free ver. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun | 12/04/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
+| Nursultan | https://nursultan.fun | 10/05/2025 | 1.12.2, 1.16.5, 1.20.1(Not released) | 61.82 | [CrashSystem](https://discord.com/users/1225495473234641009) | Argentoz | Paid | No |
 | Wild | https://wildclient.org | 01/04/2025 | 1.20(Not Released), 1.16.5, 1.19.2 | 55.45 | [AlekseiEzhov](https://discord.com/users/995028996687409322) | Bodyaha | Paid | No |
 | CatLean | https://catlean.fun/ | 08/03/2025 | 1.21.4(Open Beta) | - | [Pan4ur](https://discord.com/users/532547459692625941) | Custom | Yes | Yes(OBT as Freemium) |
 | Celestial | https://celka.su | 28/03/2025 | 1.12.2, 1.16.5 | 61.09 | [Smertnix](https://discord.com/users/880503910622691349) | Argentoz | Paid | No |
