@@ -39,6 +39,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nursultan | https://nursultan.fun/products | Paid | 349₽ | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
 | Wild | https://wildclient.org/account/products | Paid | 299₽ | 449₽ | 499₽ | - | 800₽ | 169₽ |
+| CatLean | https://catlean.fun/ | Free | - | - | - | - | - | - |
 | Celestial | https://celka.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
 | CProject | Not Released | Paid | - | - | - | - | - | - |
 | Akrien | https://akrien.wtf/market | Paid | 299₽ | - | 749₽ | - | - | 299₽ |
