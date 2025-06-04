@@ -20,7 +20,7 @@
 | Deadcode | https://deadcodehack.org | 15/06/2024 | 1.16.5 | 31.82 | [gish_reloadead](https://discord.com/users/790439129703907378) | GishReloadead | Free | Yes(Freemium) |
 | Delta | https://deltaclient.fun | 01/05/2025 | 1.16.5 | 65.45 | [dezz](https://t.me/dezztoper) | SerjTarasov, Bodyaha | Paid | No |
 | Excellent | https://excellentclient.pw | 10/11/2024 | 1.8.9(Not released), 1.16.5  | 44.55 | [sheluvparis](https://discord.com/users/1064671203782037555) | kotopushka1337 | Paid | No |
-| Eternity | https://eternityclient.ru | 12/04/2025 | 1.21.1 | 52.27 | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
+| Eternity | https://eternityclient.su | 12/04/2025 | 1.21.1 | 52.27 | [dream1xd](https://discord.com/users/1071453360521232467) | dream1xd | Paid | No |
 | Expensive | https://expensiveclient.su | 27/07/2024 | 1.16.5, 1.21.1(Not Released) | 48.18 | [dedinsiduss](https://discord.com/users/1163387041455812668) | Argentoz | Paid | No |
 | Melonity | https://melonity.gg | Not Released | 1.16.5 | Not Released | [Stanislav Minaev](https://vk.com/minaev_hack) | Custom | Paid(Not released) | No |
 | Minced | https://mincedclient.ru/ | 29/04/2025 | 1.12.2, 1.16.5, 1.20.1 | 60.91 | [Tuskiewicz](https://discord.com/users/719410334892294285) | kotopushka1337 | Paid | No |
