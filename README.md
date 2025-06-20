@@ -11,7 +11,7 @@
 | 🕹 Cheat client | 🔗 Link                                | ⏱ Last Update           | 📑 Versions                          | 🌟 Rating (of 100) | 👑 Owner                                                       | 🛡 Protection               | 💰 Paid            | 💸 Free ver.         |
 | --------------- | -------------------------------------- | ----------------------- | ------------------------------------ | ------------------ | -------------------------------------------------------------- | --------------------------- | ------------------ | -------------------- |
 | Nursultan       | https://nursultan.fun                  | 12/06/2025              | 1.12.2, 1.16.5, 1.21.4(Not released) | 61.82              | [CrashSystem](https://discord.com/users/1225495473234641009)   | Argentoz                    | Paid               | No                   |
-| Wild            | https://wildclient.org                 | 01/04/2025              | 1.20(Not Released), 1.16.5, 1.19.2   | 55.45              | [AlekseiEzhov](https://discord.com/users/995028996687409322)   | Bodyaha                     | Paid               | No                   |
+| Wild            | https://wildclient.org                 | 01/04/2025              | 1.20(Not Released), 1.16.5, 1.19.2   | 55.45              | [zanolka](https://discord.com/users/532120976440164352)        | Bodyaha                     | Paid               | No                   |
 | CatLean         | https://catlean.fun/                   | 31/05/2025              | 1.21.4(Open Beta)                    | -                  | [Pan4ur](https://discord.com/users/532547459692625941)         | Custom                      | Yes                | Yes(OBT as Freemium) |
 | Celestial       | https://celka.su                       | 06/06/2025              | 1.12.2, 1.16.5                       | 61.09              | [Smertnix](https://discord.com/users/880503910622691349)       | Argentoz                    | Paid               | No                   |
 | CProject        | https://t.me/cprojecttech              | Not Released            | 1.9-1.21(Not released)(Inject)       | Not Released       | [Myszkin](https://t.me/mousej123)                              | Custom                      | Paid(Not released) | No                   |
@@ -62,10 +62,14 @@
 | Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 649₽        | -          | 949₽            | 299₽          |
 | Zamorozka       | https://zamorozka-web.github.io/site                                    | Free    | -          | -           | -           | -          | -               | -             |
 
-## Scam and malicious list
-| 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
-| --- | --- | --- | --- | --- | --- |
-| Rogalik | https://discord.gg/rogalik | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat | Yes | Yes |
-| Quick | https://quickclient.ru | [Fabos](https://discord.com/users/974660866203062322) | Author is freak&skidder | Yes | No |
-| Manloxx | https://t.me/ManloxxClient | [manloxx](https://t.me/manloxx1337) | Author is freak&skidder | Yes | No |
-| Redust | https://vk.com/redustclient & https://redust.ru | [PinkFace](tg://user?id=1263978335) | Exit Scam | Yes | No |
+## Malicious list (Last list update: Jun 20, 2025.)
+
+| 🕹 Cheat        | 🔗 Link                                         | 👑 Owner                                                   | ❓ Type                 | 💰 Paid | 💸 Free ver. |
+| --------------- | ----------------------------------------------- | ---------------------------------------------------------- | ---------------------- | ------- | ------------ |
+| Rogalik         | https://discord.gg/rogalik                      | [tipovorkis](https://discord.com/users/626283087684304897) | Stealer&Rat            | Yes     | Yes          |
+| Quick           | https://quickclient.ru                          | [Fabos](https://discord.com/users/974660866203062322)      | Owner is freak&skidder | Yes     | No           |
+| Manloxx         | https://t.me/ManloxxClient                      | [manloxx](https://t.me/manloxx1337)                        | Owner is freak&skidder | Yes     | No           |
+| Redust          | https://vk.com/redustclient & https://redust.ru | [PinkFace](tg://user?id=1263978335)                        | Exit Scam              | Yes     | No           |
+| Aours Launcher  | https://t.me/AourusLaucher                      | Raifon                                                     | Stealer&Rat            | No      | Yes          |
+| Arcana Launcher | -                                               | Raifon                                                     | Stealer&Rat            | No      | Yes          |
+| Delta           | https://deltaclient.fun/cabinet                 | [dezz](https://t.me/dezztoper)                             | Owner is freak&skidder | Yes     | No           |
