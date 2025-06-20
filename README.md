@@ -58,7 +58,7 @@
 | Troxill         | https://t.me/troxill_bot                                                | Paid    | 400₽       | -           | 2355₽       | -          | 1100₽           | 200₽          |
 | Venus           | https://discord.com/invite/snB5gAuHrm                                   | Free    | -          | -           | -           | -          | -               | -             |
 | Verist          | https://discord.gg/GMGhBszKvA                                           | Free    | -          | -           | -           | -          | -               | -             |
-| ProjectWing     | https://discord.gg/tdeX5TBkmX                                           | Paid    | -          | -           | -           | -          | 1000₽           | -             |
+| ProjectWing     | https://discord.gg/tdeX5TBkmX                                           | Paid    | -          | -           | -           | -          | -               | -             |
 | Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 649₽        | -          | 949₽            | 299₽          |
 | Zamorozka       | https://zamorozka-web.github.io/site                                    | Free    | -          | -           | -           | -          | -               | -             |
 
