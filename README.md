@@ -31,35 +31,35 @@
 | Venus           | https://discord.com/invite/snB5gAuHrm  | 29/05/2025        | 1.16.5                               | 50.0               | [KatanaKio](https://t.me/Katana_kio)                           | Custom                      | No                 | Yes                  |
 | Verist          | https://discord.gg/GMGhBszKvA          | 04/06/2025        | 1.16.5                               | -                  | [Kasper](https://discord.com/users/665501855060721704)         | NonProtected(Closed Source) | Free               | Yes                  |
 | ProjectWing     | https://discord.gg/tdeX5TBkmX          | Not Released      | 1.20.x(Not Released)                 | Not Released       | [ecstasy](https://discord.com/users/1043642188522848296)       | Custom                      | Paid(Not released) | No                   |
-| Wexside         | https://wexside.ru                     | 12/06/2025        | 1.16.5                               | 69.09              | Wendovsky                                                      | Wendovsky, Markushv         | Paid               | No                   |
+| Wexside         | https://wexside.ru                     | 15/06/2025        | 1.16.5                               | 69.09              | Wendovsky                                                      | Wendovsky, Markushv         | Paid               | No                   |
 | Zamorozka       | https://zamorozka-web.github.io/site   | 21/06/2023        | 1.16.5                               | 70.91              | [Shalopay](https://t.me/sun_r0se)                              | Custom                      | Free               | Yes                  |
 
 ## Pricing List (Without Fees)
-| 🕹 Cheat client | 🔗 Link | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime | 💰 Premium | 💰 Paid Testing | 💰 HWID Reset |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nursultan | https://nursultan.fun/products | Paid | 349₽ | 549₽ | 649₽ | 299₽ | 1049₽ | 299₽ |
-| Wild | https://wildclient.org/account/products | Paid | 299₽ | 449₽ | 499₽ | - | 800₽ | 169₽ |
-| CatLean | https://catlean.fun/ | Free | - | - | - | - | - | - |
-| Celestial | https://celka.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
-| CProject | Not Released | Paid | - | - | - | - | - | - |
-| Akrien | https://akrien.wtf/market | Paid | 299₽ | - | 749₽ | - | - | 299₽ |
-| Arbuz | https://arbuz.cc/cabinet | Paid | 299₽ | 499₽ | 599₽ | - | - | 152₽ |
-| Deadcode | https://deadcodehack.org/Home/AdvancedInfo | Paid | 305₽ | - | 599₽ | - | - | - |
-| Delta | https://deltaclient.fun/cabinet | Paid | 349₽ | - | 549₽ | 250₽ | - | 250₽ |
-| Excellent | https://excellentclient.pw | Paid | - | - | - | - | - | - |
-| Eternity | https://eternityclient.ru/products | Paid | - | - | 450₽ | - | - | - |
-| Expensive | https://expensiveclient.su/products | Paid | 310₽ | 499₽ | 599₽ | - | - | 305₽ |
-| Melonity | https://melonity.gg | Paid | - | - | - | - | - | - |
-| Minced | https://mincedclient.ru/index#pricing | Paid | 300₽ | 600₽ | - | - | - | 150₽ |
-| Relake | https://relakeclient.fun | Paid | - | - | - | - | - | - |
-| Rockstar | https://rockstar.moscow | Paid | - | - | 349₽ | - | 999₽ | - |
-| Thunderhack | https://thunderhack.sex | Free | - | - | - | - | - | - |
-| Troxill | https://t.me/troxill_bot | Paid | - | - | - | - | - | - |
-| Venus | https://discord.com/invite/snB5gAuHrm | Free | - | - | - | - | - | - |
-| Verist | https://discord.gg/GMGhBszKvA | Free | - | - | - | - | - | - |
-| ProjectWing | https://discord.gg/tdeX5TBkmX | Paid | - | - | - | - | 1000₽ | - |
-| Wexside | https://wexside.ru/catalog | Paid | 349₽ | - | 549₽ | - | 849₽ | 249₽ |
-| Zamorozka | https://zamorozka-web.github.io/site | Free | - | - | - | - | - | - |
+| 🕹 Cheat client | 🔗 Link                                    | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime | 💰 Premium | 💰 Paid Testing | 💰 HWID Reset |
+| --------------- | ------------------------------------------ | ------- | ---------- | ----------- | ----------- | ---------- | --------------- | ------------- |
+| Nursultan       | https://nursultan.fun/products             | Paid    | 349₽       | 549₽        | 649₽        | 299₽       | 1049₽           | 299₽          |
+| Wild            | https://wildclient.org/account/products    | Paid    | 299₽       | 449₽        | 499₽        | -          | 800₽            | 169₽          |
+| CatLean         | https://catlean.fun/                       | Free    | -          | -           | -           | -          | -               | -             |
+| Celestial       | https://celka.su/products                  | Paid    | 310₽       | 499₽        | 599₽        | -          | -               | 305₽          |
+| CProject        | Not Released                               | Paid    | -          | -           | -           | -          | -               | -             |
+| Akrien          | https://akrien.wtf/market                  | Paid    | 299₽       | -           | 749₽        | -          | -               | 299₽          |
+| Arbuz           | https://arbuz.cc/cabinet                   | Paid    | 299₽       | 499₽        | 599₽        | -          | -               | 152₽          |
+| Deadcode        | https://deadcodehack.org/Home/AdvancedInfo | Paid    | 305₽       | -           | 599₽        | -          | -               | -             |
+| Delta           | https://deltaclient.fun/cabinet            | Paid    | 349₽       | -           | 549₽        | 250₽       | -               | 250₽          |
+| Excellent       | https://excellentclient.pw                 | Paid    | -          | -           | -           | -          | -               | -             |
+| Eternity        | https://eternityclient.ru/products         | Paid    | -          | -           | 450₽        | -          | -               | -             |
+| Expensive       | https://expensiveclient.su/products        | Paid    | 310₽       | 499₽        | 599₽        | -          | -               | 305₽          |
+| Melonity        | https://melonity.gg                        | Paid    | -          | -           | -           | -          | -               | -             |
+| Minced          | https://mincedclient.ru/index#pricing      | Paid    | 300₽       | 600₽        | -           | -          | -               | 150₽          |
+| Relake          | https://relakeclient.fun                   | Paid    | -          | -           | -           | -          | -               | -             |
+| Rockstar        | https://rockstar.moscow                    | Paid    | -          | -           | 349₽        | -          | 999₽            | -             |
+| Thunderhack     | https://thunderhack.sex                    | Free    | -          | -           | -           | -          | -               | -             |
+| Troxill         | https://t.me/troxill_bot                   | Paid    | -          | -           | -           | -          | -               | -             |
+| Venus           | https://discord.com/invite/snB5gAuHrm      | Free    | -          | -           | -           | -          | -               | -             |
+| Verist          | https://discord.gg/GMGhBszKvA              | Free    | -          | -           | -           | -          | -               | -             |
+| ProjectWing     | https://discord.gg/tdeX5TBkmX              | Paid    | -          | -           | -           | -          | 1000₽           | -             |
+| Wexside         | https://wexside.ru/catalog                 | Paid    | 349₽       | -           | 549₽        | -          | 849₽            | 249₽          |
+| Zamorozka       | https://zamorozka-web.github.io/site       | Free    | -          | -           | -           | -          | -               | -             |
 
 ## Scam and malicious list
 | 🕹 Cheat client | 🔗 Link | 👑 Owner | ❓ Type | 💰 Paid | 💸 Free ver. |
