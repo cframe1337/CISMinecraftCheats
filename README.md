@@ -59,7 +59,7 @@
 | Venus           | https://discord.com/invite/snB5gAuHrm                                   | Free    | -          | -           | -           | -          | -               | -             |
 | Verist          | https://discord.gg/GMGhBszKvA                                           | Free    | -          | -           | -           | -          | -               | -             |
 | ProjectWing     | https://discord.gg/tdeX5TBkmX                                           | Paid    | -          | -           | -           | -          | 1000₽           | -             |
-| Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 549₽        | -          | 949₽            | 299₽          |
+| Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 649₽        | -          | 949₽            | 299₽          |
 | Zamorozka       | https://zamorozka-web.github.io/site                                    | Free    | -          | -           | -           | -          | -               | -             |
 
 ## Scam and malicious list
