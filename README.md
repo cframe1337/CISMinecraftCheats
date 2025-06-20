@@ -7,7 +7,8 @@
 - [x] Information about owners, ratings, protection providers of cheat is confirmed and up to date.
 - [x] The cheats list will be updated over time.
 
-## Normal List (Last rating update: Mar 1, 2025.)
+## Normal List (Last update: Jun 20, 2025.)
+
 | 🕹 Cheat client | 🔗 Link                                | ⏱ Last Update           | 📑 Versions                          | 🌟 Rating (of 100) | 👑 Owner                                                       | 🛡 Protection               | 💰 Paid            | 💸 Free ver.         |
 | --------------- | -------------------------------------- | ----------------------- | ------------------------------------ | ------------------ | -------------------------------------------------------------- | --------------------------- | ------------------ | -------------------- |
 | Nursultan       | https://nursultan.fun                  | 12/06/2025              | 1.12.2, 1.16.5, 1.21.4(Not released) | 61.82              | [CrashSystem](https://discord.com/users/1225495473234641009)   | Argentoz                    | Paid               | No                   |
@@ -34,7 +35,7 @@
 | Wexside         | https://wexside.ru                     | 15/06/2025              | 1.16.5                               | 69.09              | Wendovsky                                                      | Wendovsky, Markushv         | Paid               | No                   |
 | Zamorozka       | https://zamorozka-web.github.io/site   | 21/06/2023              | 1.16.5                               | 70.91              | [Shalopay](https://t.me/sun_r0se)                              | Custom                      | Free               | Yes                  |
 
-## Pricing List (Without Fees) (Last price update: Jun 20, 2025.)
+## Pricing List (Without Fees) (Last update: Jun 20, 2025.)
 
 | 🕹 Cheat client | 🔗 Link                                                                 | 💰 Paid | 💰 30 Days | 💰 365 Days | 💰 Lifetime | 💰 Premium | 💰 Paid Testing | 💰 HWID Reset |
 | --------------- | ----------------------------------------------------------------------- | ------- | ---------- | ----------- | ----------- | ---------- | --------------- | ------------- |
@@ -62,7 +63,7 @@
 | Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 649₽        | -          | 949₽            | 299₽          |
 | Zamorozka       | https://zamorozka-web.github.io/site                                    | Free    | -          | -           | -           | -          | -               | -             |
 
-## Malicious list (Last list update: Jun 20, 2025.)
+## Malicious list (Last update: Jun 20, 2025.)
 
 | 🕹 Cheat        | 🔗 Link                                         | 👑 Owner                                                   | ❓ Type                 | 💰 Paid | 💸 Free ver. |
 | --------------- | ----------------------------------------------- | ---------------------------------------------------------- | ---------------------- | ------- | ------------ |
