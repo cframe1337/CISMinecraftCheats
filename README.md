@@ -3,7 +3,7 @@
 ![Repository Size](https://img.shields.io/github/repo-size/cframe1337/CISMinecraftCheats) ![GitHub last commit](https://img.shields.io/github/last-commit/cframe1337/CISMinecraftCheats)
 
 
-- [x] The cheat websites provided here are verified and are not phishing or malicious.
+- [x] The cheat websites provided here are verified.
 - [x] Information about owners, ratings, protection providers of cheat is confirmed and up to date.
 - [x] The cheats list will be updated over time.
 
