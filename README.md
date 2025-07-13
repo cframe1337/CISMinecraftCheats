@@ -63,6 +63,34 @@
 | Wexside         | https://wexside.ru/catalog                                              | Paid    | 349₽       | -           | 649₽        | -          | 949₽            | 299₽          |
 | Zamorozka       | https://zamorozka-web.github.io/site                                    | Free    | -          | -           | -           | -          | -               | -             |
 
+## Statistic List (Last update: Jul 13, 2025.)
+
+| 🕹 Cheat client | 🔗 Link                                                                 | 👤 Registered | ❇️ Client Launches | 📺 YouTube | ✈️ Telegram | 🗣️ Discord | 🆔 Update Count | ☀️ Days from opening |
+| --------------- | ----------------------------------------------------------------------- | ------------- | ----------------- | ----------- | ---------- | ---------- | ---------------- | ------------------- |
+| Nursultan       | https://nursultan.fun/products                                          | 250 152       | 8 128 860         | 3,98k       | 36 929     | 75,256     | 1 078            | 1 067               |
+| Wild            | https://wildclient.org/account/products                                 | 62 535        | 1 799 999*        | -           | 9 700      | 9 790      | 482              | 1 642               |
+| CatLean         | https://catlean.fun/                                                    | -             | -                 | -           | -          | 5 989      | -                | 338                 |    
+| Celestial       | https://celka.su/products                                               | 129 934       | 1 169 209         | -           | 33 113     | 39 030     | 142              | 1 010               |
+| CProject        | Not Released                                                            | -             | -                 | -           | -          | -          | -                | -                   |
+| Akrien          | https://akrien.wtf/market                                               | 862 344       | 30 734 009        | -           | 13 591     | 4 191      | 435              | 2 233               |
+| Arbuz           | https://arbuz.cc/cabinet                                                | 16 017        | -                 | -           | 9 444      | 5 505      | 143              | 512                 |
+| Deadcode        | https://deadcodehack.org/Home/AdvancedInfo                              | -             | -                 | -           | 2 958      | 8 315      | -                | 1 474               | 
+| Delta           | https://deltaclient.fun/cabinet                                         | -             | -                 | 6,66k       | 48 837     | 35 665     | -                | 504                 |
+| Excellent       | https://excellentclient.pw                                              | 21 343        | 30 000*           | -           | 3 646      | 4 175      | 65               | 884                 |
+| Eternity        | https://eternityclient.su/products                                      | -             | -                 | -           | 3 478      | 3 848      | 5                | 48                  |
+| Expensive       | https://expensiveclient.su/products                                     | 63 327        | 1 134 236         | -           | 5 359      | 6 471      | 212              | 921                 |
+| Melonity        | https://melonity.gg                                                     | -             | -                 | -           | 1 564      | -          | 1                | 36                  |
+| Minced          | https://mincedclient.ru/index#pricing                                   | -             | -                 | -           | 6 052      | -          | -                | 86                  |
+| Relake          | https://relakeclient.fun                                                | -             | -                 | -           | 4 446      | -          | -                | 362                 |
+| Rockstar        | https://rockstar.moscow                                                 | 530           | -                 | 1,36k       | 8 536      | 5 422      | -                | 306                 |
+| Thunderhack     | [https://thunderhack.net](https://github.com/Pan4ur/ThunderHack-Recode) | -             | -                 | -           | -          | 5 916      | -                | 729                 |
+| Troxill         | https://t.me/troxill_bot                                                | -             | -                 | -           | 7 547      | 1 005      | -                | 740                 |
+| Venus           | https://discord.com/invite/snB5gAuHrm                                   | -             | -                 | -           | 42 022     | 12 004     | -                | 368                 |
+| Verist          | https://discord.gg/GMGhBszKvA                                           | -             | -                 | -           | 1 172      | 797        | -                | 382                 |
+| ProjectWing     | https://discord.gg/tdeX5TBkmX                                           | 29            | -                 | -           | 2 505      | 159        | -                | -                   |
+| Wexside         | https://wexside.ru/catalog                                              | -             | -                 | -           | 35 141     | 13 810     | -                | 523                 |
+| Zamorozka       | https://zamorozka-web.github.io/site                                    | -             | -                 | -           | 124        | -          | -                | 2 011               |
+
 ## Malicious list (Last update: Jun 20, 2025.)
 
 | 🕹 Cheat        | 🔗 Link                                         | 👑 Owner                                                   | ❓ Type                        | 💰 Paid | 💸 Free ver. |
